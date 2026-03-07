@@ -1,3 +1,8 @@
 "version 1" 
 "login feature code" 
 "conflict from A" 
+<<<<<<< HEAD
+=======
+"conflict from B" 
+>>>>>>> conflict-b
+"This change comes via PR" 
