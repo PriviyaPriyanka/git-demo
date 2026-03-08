@@ -5,3 +5,4 @@
 =======
 "conflict from B" 
 >>>>>>> conflict-b
+"This change comes via PR" 
